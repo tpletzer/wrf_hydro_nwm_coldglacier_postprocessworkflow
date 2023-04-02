@@ -1,0 +1,4 @@
+file_dir: #dir with csv input files
+save_dir: #output dir
+station_names: cwg #location of pixel for input
+plot_names: [runoffmod, snowheight, runoffcomp, runoff3plot, sfctemptime, sfctempscatter, albedobefore, albedoafter, albedobands, xsecticetemp, xsecticetempdiff, xsecticetempspinnup, icetempH]
